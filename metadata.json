@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic ki baddie - Discord Bot Studio",
+  "description": "Production-ready Discord server management, automation, anti-nuke, tickets, and interactive command suite for Side Quest Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
